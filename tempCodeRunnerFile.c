@@ -1,0 +1,1 @@
+printf("Tempo em Bubble Sort: %lf", tempo);
